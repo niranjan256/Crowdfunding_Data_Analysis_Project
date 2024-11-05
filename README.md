@@ -23,6 +23,8 @@ This project focuses on developing an analytics platform for a crowdfunding webs
 - **Reporting and Insights**: 
   - Developed comprehensive reports to present findings to stakeholders.
   - Provided actionable insights to support strategic decision-making and operational improvements.
+ 
+To Download the datasets, please go through "https://mail.google.com/mail/u/0/#search/thanuja/FMfcgzQXJQRMdjNJSDcfxHhqhBPDzbKg?projector=1"
 
 ## Getting Started
 To run this project locally, follow these steps:
